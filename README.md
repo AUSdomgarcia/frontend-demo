@@ -1,4 +1,4 @@
-> Here's a short compilation of my work to our several clients, some are just images and some are videos for a reason that I cannot disclose due to company confidentialities.
+> Here's a short compilation of my work to our several clients, some are links, images and videos for a reason that I cannot disclose due to company confidentialities.
 
 ### Belo Websites
 * [Belomen](https://belomen.com/ "Belomen official Website")
