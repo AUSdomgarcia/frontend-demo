@@ -14,6 +14,7 @@
 
 #### IRIS - MEAN stack development
 * [IRIS + Instagram](https://www.youtube.com/watch?v=q26jwUBtMUk "A sample demo showing short introduction about IRIS system. This serve as submission entry to acquire permission from Instagram API")
+* [sample image](https://github.com/AUSdomgarcia/frontend-demo/blob/master/iris.png)
 
 #### ReactJS + Laravel
 
