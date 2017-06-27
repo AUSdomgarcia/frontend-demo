@@ -19,6 +19,5 @@
 
 | Step 1        | Step 2           
 | ------------- |:-------------:|
-| copy these to your etc/hosts 1. 128.199.155.40 www.cerebrum-api.dev 2. 128.199.155.40 cerebrum-api.dev
-| Visit this link http://cerebrum-api-staging.dev:8098/ |
+| copy these to your etc/hosts `128.199.155.40 www.cerebrum-api.dev` `128.199.155.40 cerebrum-api.dev` | Visit this link http://cerebrum-api-staging.dev:8098/ |
 
