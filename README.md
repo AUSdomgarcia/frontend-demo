@@ -17,9 +17,9 @@
 
 #### ReactJS + Laravel
 
-How to setup | abc | abc 
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
-
+| Tables        | Are           
+| ------------- |:-------------:|
+| col 3 is      | right-aligned |
+| col 2 is      | centered      |
+| zebra stripes | are neat      |
 
