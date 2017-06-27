@@ -17,9 +17,8 @@
 
 #### ReactJS + Laravel
 
-| Tables        | Are           
+| Step 1        | Step 2           
 | ------------- |:-------------:|
-| col 3 is      | right-aligned |
-| col 2 is      | centered      |
-| zebra stripes | are neat      |
+| copy these to your etc/hosts 1. 128.199.155.40 www.cerebrum-api.dev 2. 128.199.155.40 cerebrum-api.dev
+| Visit this link http://cerebrum-api-staging.dev:8098/ |
 
