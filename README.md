@@ -25,8 +25,8 @@
 |  copy these to your **_etc/hosts_**    `128.199.155.40 www.cerebrum-api.dev`    `128.199.155.40 cerebrum-api.dev` | Visit this link http://cerebrum-api-staging.dev:8098/ |
 
 #### Ionic 2 with breakdown Features
+* [Screenshot](https://github.com/AUSdomgarcia/frontend-demo/tree/master/ionic2)
 * Simple CRUD
 * CRUD with file and camera integration
 * Canvas HTML5 Integration
 * CRUD with Firebase API
-* [Source Code](https://github.com/AUSdomgarcia/crud-ionic2 "Most recent Research and Development I had")
