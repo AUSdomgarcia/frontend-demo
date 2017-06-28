@@ -19,14 +19,19 @@
 * [Link](http://irismedia.social:5050/posts/create-fb "minimum page allowed for public viewing")
 
 #### ReactJS + Laravel
+Set up first for this do not have domain name.
 
 | Step 1        | Step 2           
 | ------------- |:-------------:|
 |  copy these to your **_etc/hosts_**    `128.199.155.40 www.cerebrum-api.dev`    `128.199.155.40 cerebrum-api.dev` | Visit this link http://cerebrum-api-staging.dev:8098/ |
 
+or visit here directly without setup http://128.199.155.40:8098/#/ratecard?_k=il9t3z
+
+> NOTE: In this build only Ratecard Category is finished, other modules are still working in progress.
+
 #### Ionic 2 with breakdown Features
+* [Screenshot](https://github.com/AUSdomgarcia/frontend-demo/tree/master/ionic2)
 * Simple CRUD
 * CRUD with file and camera integration
 * Canvas HTML5 Integration
 * CRUD with Firebase API
-* [Source Code](https://github.com/AUSdomgarcia/crud-ionic2 "Most recent Research and Development I had")
