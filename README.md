@@ -27,6 +27,8 @@ Set up first for this do not have domain name.
 
 or visit here directly without setup http://128.199.155.40:8098/#/ratecard?_k=il9t3z
 
+NOTE: In this build only Ratecard Category is finished, other modules are still working in progress.
+
 #### Ionic 2 with breakdown Features
 * [Screenshot](https://github.com/AUSdomgarcia/frontend-demo/tree/master/ionic2)
 * Simple CRUD
