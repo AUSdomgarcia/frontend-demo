@@ -9,10 +9,8 @@
 * [Food Service](http://www.mondenissin.com/foodservice "A sub page of a corporate website")
 * [Lucky Me NamNam](http://www.luckymenamnam.com.ph/ "Official Website")
 
-#### Greenwich
+#### Inactive
 * [Ultimate Bandkada 1 & 2 ](https://web.facebook.com/GreenwichPizza/photos/a.181706241846649.53337.114259391924668/1277304205620175/?type=1&theater "Campaign already done, website is unavailable")
-
-#### Nestea 2016
 * [Nestea Love the beach 2016](http://eventscapemanila.com/portfolio/nestea-love-beach-2016/ "Website were down, but you may see the actual landing page showed in this site.")
 
 #### IRIS - MEAN stack development
@@ -32,4 +30,3 @@
 * Canvas HTML5 Integration
 * CRUD with Firebase API
 * [Source Code](https://github.com/AUSdomgarcia/crud-ionic2 "Most recent Research and Development I had")
-
