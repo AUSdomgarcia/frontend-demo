@@ -11,7 +11,8 @@
 
 #### Inactive
 * [Ultimate Bandkada 1 & 2 ](https://web.facebook.com/GreenwichPizza/photos/a.181706241846649.53337.114259391924668/1277304205620175/?type=1&theater "Campaign already done, website is unavailable")
-* [Nestea Love the beach 2016](http://eventscapemanila.com/portfolio/nestea-love-beach-2016/ "Website were down, but you may see the actual landing page showed in this site.")
+* [Nestea Love the beach 2016](https://github.com/AUSdomgarcia/frontend-demo/blob/master/inactive/NesteaBeach_Desktop.jpg)
+* [Kung Fu Panda](https://github.com/AUSdomgarcia/frontend-demo/blob/master/inactive/MondeSplash_DESKTOP.jpg)
 
 #### IRIS - MEAN stack development
 * [IRIS + Instagram](https://www.youtube.com/watch?v=q26jwUBtMUk "A sample demo showing short introduction about IRIS system. This serve as submission entry to acquire permission from Instagram API")
