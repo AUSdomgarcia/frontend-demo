@@ -19,12 +19,13 @@
 * [Link](http://irismedia.social:5050/posts/create-fb "minimum page allowed for public viewing")
 
 #### ReactJS + Laravel
+Set up first for this do not have domain name.
 
 | Step 1        | Step 2           
 | ------------- |:-------------:|
 |  copy these to your **_etc/hosts_**    `128.199.155.40 www.cerebrum-api.dev`    `128.199.155.40 cerebrum-api.dev` | Visit this link http://cerebrum-api-staging.dev:8098/ |
 
-or visit this directly http://128.199.155.40:8098/#/ratecard?_k=il9t3z
+or visit here directly without setup http://128.199.155.40:8098/#/ratecard?_k=il9t3z
 
 #### Ionic 2 with breakdown Features
 * [Screenshot](https://github.com/AUSdomgarcia/frontend-demo/tree/master/ionic2)
