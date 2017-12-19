@@ -20,7 +20,7 @@
 * [Link](http://irismedia.social:5050/posts/create-fb "minimum page allowed for public viewing")
 
 #### ReactJS + Laravel
-link http://cerebrum-api-staging.dev:8098/ |
+**
 
 #### Ionic 2 with breakdown Features
 * [Screenshots](https://github.com/AUSdomgarcia/frontend-demo/tree/master/ionic2)
